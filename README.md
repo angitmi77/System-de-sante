@@ -32,7 +32,7 @@ Un système complet de gestion des rendez-vous médicaux développé en Python a
 
 1. Cloner le repository :
 ```bash
-git clone https://github.com/votre-username/sys-de-sante.git
+git clone https://github.com/angitmi77/sys-de-sante.git
 cd sys-de-sante
 ```
 
