@@ -1,0 +1,12 @@
+Administrateur :
+
+Username : Admin
+Mot de passe : Admin
+
+Médecin : 
+Username : med1
+Mot de passe : med1
+
+Patient : 
+Username : Alice
+Mot de passe : 1234
